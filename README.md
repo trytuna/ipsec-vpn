@@ -6,6 +6,10 @@ I seems that everything is moving to the cloud nowadays which is fine in some fo
 
 You will be able to connect safely to your private network from anywhere in the world. The private network could be your home (pfSense router) or a server in whatever datacenter you like which can host many different services.
 
+#### Table of Contents
+
+- [pfSense Setup](https://github.com/trytuna/ipsec-vpn#pfSense Setup)
+
 ## pfSense Setup
 
 #### Self-signing Certificates
