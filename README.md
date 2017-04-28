@@ -8,7 +8,7 @@ You will be able to connect safely to your private network from anywhere in the 
 
 #### Table of Contents
 
-- [pfSense Setup](https://github.com/trytuna/ipsec-vpn#pfSense-setup)
+- [pfSense Setup](https://github.com/trytuna/ipsec-vpn#pfsense-setup)
 
 ## pfSense setup
 
